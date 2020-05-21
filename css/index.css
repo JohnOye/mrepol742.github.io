@@ -9,3 +9,18 @@ marginRight: 5dp;
 .visibility-gone {
 display: none;
 }
+
+.image {
+width: 100%;
+height: auto;
+}
+
+.image-max {
+max-width: 100%;
+height: auto;
+}
+
+.image-cover {
+width: 0;
+height: 0;
+}
