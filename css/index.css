@@ -4,13 +4,13 @@ border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 margin-left: 5px;
 margin-right: 5px;
-box-shadow: 1px 1px 5px #212121;
+box-shadow: 1px 1px 5px #757575;
 }
 
 .background-div {
 background-color: transparent;
 border-radius: 10px;
-box-shadow: 1px 1px 3px #212121;
+box-shadow: 1px 1px 3px #757575;
 }
 
 .background-list {
@@ -40,4 +40,8 @@ height: 0;
 
 .marginTop {
 margin-top: 20%;
+}
+
+.h {
+color: #212121;
 }
