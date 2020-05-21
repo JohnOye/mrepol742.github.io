@@ -2,4 +2,6 @@
 background-color: #4285f4;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
+paddingLeft: 5dp;
+paddingRight: 5dp;
 }
