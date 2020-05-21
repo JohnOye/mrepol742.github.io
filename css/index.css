@@ -4,18 +4,19 @@ border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
 margin-left: 5px;
 margin-right: 5px;
-box-shadow: 1px 1px 5px grey;
+box-shadow: 1px 1px 5px #212121;
 }
 
 .background-div {
 background-color: transparent;
 border-radius: 10px;
-box-shadow: 1px 1px 5px grey;
+box-shadow: 1px 1px 3px #212121;
 }
 
 .background-list {
 background-color: #ffffff;
 color: #4285f4!important;
+border-color: #ffffff!important;
 }
 
 .visibility-gone {
