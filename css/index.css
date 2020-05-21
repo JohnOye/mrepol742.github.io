@@ -7,6 +7,12 @@ margin-right: 5px;
 box-shadow: 1px 1px 5px grey;
 }
 
+.background-div {
+background-color: transparent;
+border-radius: 10px;
+box-shadow: 1px 1px 5px grey;
+}
+
 .visibility-gone {
 display: none;
 }
