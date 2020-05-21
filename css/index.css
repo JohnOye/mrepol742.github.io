@@ -2,8 +2,8 @@
 background-color: #4285f4;
 border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px;
-marginLeft: 10%;
-marginRight: 10%;
+marginLeft: 10%!important;
+marginRight: 10%!important;
 }
 
 .visibility-gone {
