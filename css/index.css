@@ -58,3 +58,19 @@ color: #ffffff!important;
 border-radius: 10px;
 box-shadow: 1px 1px 3px #757575;
 }
+
+.launcher-url:link {
+    color: #ffffff!important;
+}
+
+.launcher-url:visited {
+    color: #ffffff!important;
+}
+
+.launcher-url:hover {
+    color: #ffffff!important;
+}
+
+.launcher-url:active {
+    color: #ffffff!important;
+}
