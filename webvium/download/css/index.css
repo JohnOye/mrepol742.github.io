@@ -1,0 +1,15 @@
+header, section, footer, aside, nav, main, article, figure { display: block; }
+
+::selection { background-color: transparent; }
+
+::-moz-selection { background-color: transparent; }
+
+* { -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; -webkit-tap-highlight-color: transparent; user-select: none; }
+
+h1 { font-size: 40px; }
+
+body { background-color: #ffffff; color: #414141; }
+
+a { color: #4285f4; text-decoration: none; }
+
+.a { background-color: #fffff; border-style: solid; border-width: 1px; border-color: #414141; border-radius: 10px; padding: 10px; margin: 10px; }
